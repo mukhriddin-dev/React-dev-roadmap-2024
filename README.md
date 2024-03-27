@@ -8,14 +8,13 @@ A thorough React developer roadmap for 2024 that addresses all aspects of React 
 
 You should know and be comfortable with **all of the following:**
 
--   [**Basic HTML**](https://www.w3schools.com/html/default.asp)
-
+-   **Basic HTML**
     -   HTML Elements, Attributes, Headings, Paragraphs, Colors & Styles
     -   HTML Links, Images, Tables, Lists, Block & Inline, Div, Classes, Id
     -   HTML Forms
     -   HTML Layout, Responsiveness & Semantic
 
--   [**Basic CSS**](https://www.w3schools.com/css/default.asp)
+-   **Basic CSS**
 
     -   CSS Basics - Syntax, Selectors, Colors, Backgrounds, Borders, Margin, Padding, Height/Width, Box Model, Outline, Text, Fonts, Links etc.
     -   CSS More - Lists, Tables, Display, Position, z-index, Overflow, Float, Inline Block, Align, Combinators, Pseudo-classes & elements, Opacity etc.
@@ -24,7 +23,7 @@ You should know and be comfortable with **all of the following:**
     -   CSS Grid
     -   Advanced CSS - CSS Units, Shadows, Gradients, Transitions, Animations, Specificity etc.
 
--   [**Basic Tailwind CSS**](https://www.youtube.com/watch?v=X7XbjwD6fVY&list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2)
+-   **Basic Tailwind CSS**
 
     -   Tailwind Utilities
     -   Responsive Variants
@@ -33,32 +32,32 @@ You should know and be comfortable with **all of the following:**
     -   Tailwind Directives
     -   Tailwind Configurations
     -   Theme Configurations
-    -   [Tailwind cn() utility](https://www.youtube.com/watch?v=y7DrXkGj7AU)
+    -   Tailwind cn() utility
 
 -   **Document Object Model (DOM)**
 
-    -   [DOM Basics - Basics, Method, Document, Elements, Forms, CSS, Events, Navigation, Nodes and Collections](https://www.youtube.com/watch?v=mPTkKnL2aNA&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy)
-    -   [DOM Advanced](https://www.youtube.com/watch?v=XY96d0vEdFk&list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_)
+    -   DOM Basics - Basics, Method, Document, Elements, Forms, CSS, Events, Navigation, Nodes and Collections
+    -   DOM Advanced
 
--   [**Basic JavaScript**](https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy)
+-   **Basic JavaScript**
 
     -   JS Basics - Statements, Expressions, Syntax, Variables, Operators, Data Types, Functions, Objects, Arrays, Events, Array and String Methods, Object Methods, Date, Conditionals, Error Handling, JavaScript OOP - classes and inheritance and Debugging
     -   JS Web APIs - Forms, History, Geolocation, Storage, Worker and Fetch API
     -   JS JSON
 
--   [**JavaScript Advanced**](https://www.youtube.com/watch?v=KuhLGuNxF8U&list=PLHiZ4m8vCp9Nflbo9a0pZuLscG_Xc7DKq)
+-   **JavaScript Advanced**
 
     -   Solid JS Concepts - Scope, Hosting, Execution Context, Closures, Prototype, Recursion, Primitive vs Reference Data Types, Currying, Intersection Observer, Memoization, Event Propagation, Debounce etc.
-    -   [Asynchronous JavaScript](https://www.youtube.com/watch?v=IUBd76UQb34) - Callbacks, Promises and async-await
+    -   Asynchronous JavaScript - Callbacks, Promises and async-await
 
--   [**Modern JavaScript**](https://www.youtube.com/watch?v=PWXkYBmlbB4&list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG)
+-   **Modern JavaScript**
 
     -   Different ES6+ JS Syntaxes and concepts eg. Arrow function, Truthy/Falsy values, Ternary Operator, Different Array methods like find, filter, map, reduce, slice, splice, push, pop, concat, different looping strategies, Spread & Rest Operator, Array and Object Destructuring, Imports/Exports syntax, Template Literals, Sorting etc.
 
--   [**Git/GitHub**](https://www.youtube.com/watch?v=PWXkYBmlbB4&list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG)
+-   **Git/GitHub**
 
-    -   [Basics of Git](https://www.youtube.com/watch?v=oe21Nlq8GS4)
-    -   [Important Git Commands](https://learnwithsumit.com/rnext/courses/rnext/git-github-refresher)
+    -   Basics of Git
+    -   Important Git Commands
 
 </details>
 
@@ -121,19 +120,19 @@ You should know and be comfortable with **all of the following:**
 <details>
 <summary>3. Advanced State Management</summary>
 
--   [Using Redux / Toolkit](https://learnwithsumit.com/think-in-a-redux-way)
--   [Using Zustand](https://github.com/pmndrs/zustand)
--   [Using Jotai](https://jotai.org/)
--   [Using Recoil](https://recoiljs.org/)
--   [Using MobX](https://mobx.js.org/README.html)
+-   Using Redux / Toolkit
+-   Using Zustand
+-   Using Jotai
+-   Using Recoil
+-   ‹Using MobX
 
 </details>
 
 <details>
 <summary>4. Styling Solutions</summary>
 
--   [**Tailwind**](https://tailwindcss.com/)
--   [**CSS Modules**](https://www.makeuseof.com/react-components-css-modules-style/)
+-   **Tailwind**
+-   **CSS Modules**
 -   [**Styled Components**](https://styled-components.com/)
 -   React UI Component Library - [Shadcn](https://ui.shadcn.com/)
 -   [React UI Component Library - Keep React](https://youtu.be/mVXNUMBtGEA)
@@ -146,7 +145,7 @@ You should know and be comfortable with **all of the following:**
 <details>
 <summary>5. React Ecosystem & Use Cases</summary>
 
--   [React Router DOM](https://youtu.be/34tjWL9wi4g)
+-   React Router DOM
 -   API Request with Axios in React
 -   React Suspense & Error Boundaries
 -   React Lazy Load
@@ -171,7 +170,7 @@ You should know and be comfortable with **all of the following:**
 
 -   [**Accessibility**](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_accessibility)
     -   Understanding why accessibility is important
-    -   [Using semantic HTML](https://www.semrush.com/blog/semantic-html5-guide/)
+    -   Using semantic HTML
     -   How to implement keyboard navigation
     -   How to add aria labels
     -   [Using React Aria](https://react-spectrum.adobe.com/react-aria/)
